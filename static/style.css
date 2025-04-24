@@ -128,21 +128,6 @@ footer .container {
     border-radius: 30px;
 }
 
-/*  
-
-@keyframes pulsar {
-    0% {
-        background-color: #28a745;
-    }
-    50% {
-        background-color: #36ec76; /* Um verde um pouco mais claro para o efeito de pulsar */
-    }
-    100% {
-        background-color: #28a745;
-    }
-}
-
-*/
 .texto-rodape {
     text-align: justify; 
     font-size: 12px;
