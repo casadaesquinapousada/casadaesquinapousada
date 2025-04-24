@@ -352,19 +352,6 @@ footer .container {
 .containerx {
     }
 
-
-@keyframes pulsar {
-    0% {
-        background-color: #28a745;
-    }
-    50% {
-        background-color: #36ec76;
-    }
-    100% {
-        background-color: #28a745;
-    }
-}
-
 .texto-rodape {
     text-align: justify; 
     font-size: 12px;
